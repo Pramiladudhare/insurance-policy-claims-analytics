@@ -60,8 +60,8 @@ Raw Data → Data Cleaning → SQL Analysis → KPI Development → Excel Analys
 
 ### Excel
 
-![Excel Dashboard] <a href="https://github.com/Pramiladudhare/insurance-policy-claims-analytics/blob/main/images/excel_dashboard.png">
-  <img src="https://github.com/Pramiladudhare/insurance-policy-claims-analytics/blob/main/images/excel_dashboard.png" alt="Excel Dashboard">
+![Excel Dashboard] <a href="./images/excel_dashboard.png">
+  <img src="./images/excel_dashboard.png" alt="Excel Dashboard">
 </a>
 
 ## 🔍 Key Insights
