@@ -48,24 +48,24 @@ The complete project contains **21 business questions analyzed using SQL and das
 
 Raw Data → Data Cleaning → SQL Analysis → KPI Development → Excel Analysis → Power BI → Tableau → Business Insights
 
+
 ## 📊 Dashboard Preview
 
-<a href="./Excel_Dashboard.png">
-  <img src="./Excel_Dashboard.png" alt="Excel Dashboard">
-</a>
+### Excel Dashboard
 
-<a href="./Tableau_Dashboard.png">
-  <img src="./Tableau_Dashboard.png" alt="Tableau Dashboard">
-</a>
+![Excel Dashboard](./excel_dashboard.png)
 
-<a href="./SQL_Analysis.png">
-  <img src="./SQL_Analysis.png" alt="SQL Analysis">
-</a>
+### Power BI Dashboard
 
-<a href="./PoweBI_Dashboard.png">
-  <img src="./PoweBI_Dashboard.png" alt="Power BI Dashboard">
-</a>
+![Power BI Dashboard](./PoweBI_Dashboard.png)
 
+### Tableau Dashboard
+
+![Tableau Dashboard](./Dashboard_Tableau.png)
+
+### SQL Analysis
+
+![SQL Analysis](./SQL_Dashboard.png)
 ## 🔍 Key Insights
 
 The analysis identifies patterns in:
