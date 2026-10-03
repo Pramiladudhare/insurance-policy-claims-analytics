@@ -56,7 +56,10 @@ Raw Data → Data Cleaning → SQL Analysis → KPI Development → Excel Analys
 
 ### Tableau
 
-![Tableau Dashboard](tableau/screenshots/tableau_dashboard.png)
+![Tableau Dashboard] <a href="./PoweBI_Dashboard.png">
+  <img src="./PoweBI_Dashboard.png" alt="Power BI Dashboard">
+</a>
+
 
 ### Excel
 
