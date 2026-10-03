@@ -50,22 +50,20 @@ Raw Data → Data Cleaning → SQL Analysis → KPI Development → Excel Analys
 
 ## 📊 Dashboard Preview
 
-### Power BI
-
-![Power BI Dashboard](powerbi/screenshots/powerbi_overview.png)
-
-### Tableau
-
-![Tableau Dashboard] <a href="./PoweBI_Dashboard.png">
-  <img src="./PoweBI_Dashboard.png" alt="Power BI Dashboard">
+<a href="./Excel_Dashboard.png">
+  <img src="./Excel_Dashboard.png" alt="Excel Dashboard">
 </a>
 
+<a href="./Tableau_Dashboard.png">
+  <img src="./Tableau_Dashboard.png" alt="Tableau Dashboard">
+</a>
 
-### Excel
+<a href="./SQL_Analysis.png">
+  <img src="./SQL_Analysis.png" alt="SQL Analysis">
+</a>
 
-![Excel Dashboard] 
-<a href="./images/excel-dashboard.png">
-  <img src="./images/excel-dashboard.png" alt="Excel Dashboard">
+<a href="./PoweBI_Dashboard.png">
+  <img src="./PoweBI_Dashboard.png" alt="Power BI Dashboard">
 </a>
 
 ## 🔍 Key Insights
