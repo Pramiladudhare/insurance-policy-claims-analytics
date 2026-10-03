@@ -80,14 +80,14 @@ These insights can be used to support further customer segmentation, policy perf
 
 ```text
 insurance-policy-claims-analytics/
-├── data/
-├── excel/
+├──  Raw data/
+├── README.md/
 ├── sql/
 ├── powerbi/
 ├── tableau/
 ├── images/
 ├── documentation/
-└── README.md
+
 ```
 
 ## 🚀 Future Improvements
